@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Cairo<br>👯 I’m looking to collaborate on Blockchain-Based Initiatives<br>📫 Reach me at mohamedashiq782@gmail.com
+🌱 I’m currently learning Cairo and Ai Agents <br>👯 I’m looking to collaborate on Blockchain-Based Initiatives<br>📫 Reach me at mohamedashiq782@gmail.com
 
 
 ## 🌐 Socials:
