@@ -1,9 +1,13 @@
 # 💫 About Me:
 👋 About Me<br>Hi there! I'm a passionate Full Stack Developer working across both Web2 and Web3 technologies.<br><br>⚡ Skilled in building modern web apps with Next.js & React.js<br><br>💡 I train and deploy AI/ML models using Jupyter Notebooks<br><br>🔗 In Web3, I build secure and efficient smart contracts<br><br>🚀 Proficient in Solidity, Rust, Cairo, and Move<br><br>🧠 I love blending AI, Blockchain, and Frontend Development to create innovative, real-world solution
 
+
+
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/møhλmξdλs̴hiq᷈s̴/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ash_05) 
